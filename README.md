@@ -8,7 +8,7 @@
 
 A iniciativa PHPSocial.org partiu da necessidade de ter profissionais qualificados ( específicamente em PHP neste caso ) juntamente com a carência e falta de expectativa das nossas escolas públicas onde muito difícilmente os alunos de ensino médio ( a fase crítica entre aprendizado e decição profissional ) teriam acesso a este tipo de material ou mesmo de conhecimento.
 
-Este projeto surgiu de um desejo pessoal de fazer algo do tipo tanto para gerar profissionais capazes mas também para gerar possibilidades para quem precisa, em uma conversa com o [Anderson Casimiro](http://github.com/duodraco "@duodraco") sobre iniciativas para um grupo que coordenamos chamado PHPSP.org.br definimos que seria uma boa iniciativa tocar este projeto com esse formato.
+Este projeto surgiu de um desejo pessoal de fazer algo do tipo tanto para gerar profissionais capazes mas também para gerar possibilidades para quem precisa, em uma conversa com o [Anderson Casimiro](http://github.com/duodraco "@duodraco") sobre iniciativas para um grupo que coordenamos, juntamente com diversos outros membros, chamado PHPSP.org.br definimos que seria uma boa iniciativa tocar este projeto com esse formato.
 
 > **Nota Pessoal**: Minha idéia é que o curso permita aos alunos uma capacitação na área de desenvolvimento de software e sistemas com conhecimentos tanto técnicos quanto arquiteturais (e aqui mora o desafio), para que sejam capazes de pensar por sí próprios, desenrolar problemas sozinhos e/ou com equipes, não adianta formar sem capacidade evolutiva.
 
