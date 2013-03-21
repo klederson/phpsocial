@@ -18,10 +18,9 @@ Este repositório contém material didático, exemplos, aulas e referências.
 
 A idéia é ministrar este curso preferencialmente aos sábados em meio período ou integral dependendo da complexidade dos módulos e também claro das turmas.
 
-Lembre-se, este material serve para qualquer um com conhecimento e disponibilidade para ministrar o curso, a idéia é evangelizar o PHP e as Boas Práticas por todo lugar então tentemos ao máximo descentralizar este conhecimento e esta prática.
-
 > Claro que este modelo é uma sugestão e não uma regra. É proposto desta forma apenas por muitos dos profissionais qualificados para ministrar cursos como estes terem uma agenda extremamente complicada, claro que se você estiver disposto e tiver tempo disponível poderá escolher outros modelos de como ministrar estas aulas.
 
+Lembre-se, este material serve para qualquer um com conhecimento e disponibilidade para ministrar o curso, a idéia é evangelizar o PHP e as Boas Práticas por todo lugar então tentemos ao máximo descentralizar este conhecimento e esta prática.
 # O Objetivo
 
 É importante ressaltar que este material se difere de tutoriais online ou web aulas, ele serve como apoio para uma interação presencial, pessoal e direta com alunos.
