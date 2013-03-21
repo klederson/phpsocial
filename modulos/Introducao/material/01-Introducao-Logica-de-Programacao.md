@@ -1,6 +1,6 @@
 # Definição
 
-Lógica de Programação nada mais é do que uma técnica para desenvolver algorítmos ( ou sequencias lógicas ) que solucionem determinados problemas.
+Lógica de Programação nada mais é do que uma técnica solucionar problemas utilizando-se de sequencias lógicas para tal o que chamamos de Algorítmos.
 
 Estes **algorítimos** não são necessáriamente um programa mas sim passos que levam à resolução de um problema e que podem ser replicados (Iterações) ou modificados (Adaptações) num conjunto de soluções afim de atingir uma meta final, o programa de computador própriamente dito.
 
