@@ -21,11 +21,18 @@ A idéia é ministrar este curso preferencialmente aos sábados em meio período
 > Claro que este modelo é uma sugestão e não uma regra. É proposto desta forma apenas por muitos dos profissionais qualificados para ministrar cursos como estes terem uma agenda extremamente complicada, claro que se você estiver disposto e tiver tempo disponível poderá escolher outros modelos de como ministrar estas aulas.
 
 Lembre-se, este material serve para qualquer um com conhecimento e disponibilidade para ministrar o curso, a idéia é evangelizar o PHP e as Boas Práticas por todo lugar então tentemos ao máximo descentralizar este conhecimento e esta prática.
+
 # O Objetivo
 
 É importante ressaltar que este material se difere de tutoriais online ou web aulas, ele serve como apoio para uma interação presencial, pessoal e direta com alunos.
 
 Porém mais do que capacita-los a idéia do projeto é ensina-los da forma correta, utilizando os conceitos de (H)MVC, Design Patterns, Boas práticas de mercado e afins. 
+
+# Obstáculos e Dificuldades
+
+Nós sabemos que para programar é necessária uma base mínima de inglês mas ela é necessária, aqui talvez esbarremos em alguns pontos e precisamos juntos achar meios de supera-los.
+
+Os pontos críticos devem ser calgados com muito cuidado para que possamos atingir nossos objetivos lembrando que a idéia é abordar um perfil de aluno diferenciado e que (em boa parte dos casos) nunca viu aquilo na vida.
 
 # O Futuro
 
